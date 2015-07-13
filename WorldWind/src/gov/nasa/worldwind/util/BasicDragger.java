@@ -18,6 +18,7 @@ import java.awt.*;
  */
 public class BasicDragger implements SelectListener
 {
+    String badString="The string should be externalized RMD"
     private final WorldWindow wwd;
     private boolean dragging = false;
 
