@@ -18,7 +18,7 @@ import java.awt.*;
  */
 public class BasicDragger implements SelectListener
 {
-    String badString="The string should be externalized RMD"
+   
     private final WorldWindow wwd;
     private boolean dragging = false;
 
@@ -30,8 +30,8 @@ public class BasicDragger implements SelectListener
     {
         if (wwd == null)
         {
-          //  String msg = Logging.getMessage("nullValue.WorldWindow");
-            String msg = "hard coded string here";
+            String msg = Logging.getMessage("nullValue.WorldWindow");
+            String msg2 = "hard coded string here RMD";
             Logging.logger().severe(msg);
             throw new IllegalArgumentException(msg);
         }
