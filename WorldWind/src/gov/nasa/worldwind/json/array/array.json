@@ -1,0 +1,14 @@
+{
+"the_cat": "The Cat",
+"colors": [
+	"Red is the color of fire",
+	"Blue",
+	"Green",
+	"Yellow"
+],
+"vehicles": [
+	"Car",
+	"Bike",
+	"Moped is cute"
+]
+}

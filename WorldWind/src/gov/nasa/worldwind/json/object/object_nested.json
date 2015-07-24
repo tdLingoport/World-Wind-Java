@@ -1,0 +1,9 @@
+{
+"the_cat": "The Cat",
+"NEST": {
+"SPLIT": "Split",
+"INTERSECT": "Intersect",
+"ANOTHER_NEST": {
+"SPLIT": "Split"
+}}
+}
