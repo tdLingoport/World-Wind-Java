@@ -1,0 +1,14 @@
+{
+"_lrmcomment":"TDWWJ_4_19 - FULL-FILE",
+        "BoxFirst": {
+            "CartonPropertyGroup": "Velg en bestemt kartong egenskapsgruppe",
+            "Classification": "Velg en bestemt klassifisering",
+            "PickZone": "Velg en bestemt plukke sone fra rullegardinlisten",
+            "Columns": {}
+        },
+		"BoxLast": {
+			"PickZone": "Velg en bestemt plukke sone fra rullegardinlisten",
+            "Columns": {},
+            "Barcode": "Angi en strekkode som en del av søkekriteriene."
+		}
+}
