@@ -1,0 +1,14 @@
+{
+"_lrmcomment":"TDWWJ_4_18 - FULL-FILE",
+        "BoxFirst": {
+            "CartonPropertyGroup": "Sélectionnez un groupe de propriétés spécifique Carton",
+            "Classification": "Sélectionnez un classement spécifique",
+            "PickZone": "Sélectionnez une Zone de prélèvement spécifique dans le menu déroulant",
+            "Columns": {}
+        },
+		"BoxLast": {
+			"PickZone": "Sélectionnez une Zone de prélèvement spécifique dans le menu déroulant",
+            "Columns": {},
+            "Barcode": "Entrez un code à barres dans le cadre de vos critères de recherche."
+		}
+}
