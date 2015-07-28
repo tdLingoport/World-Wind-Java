@@ -1,0 +1,14 @@
+{
+"_lrmcomment":"TDWWJ_4_21 - FULL-FILE",
+        "BoxFirst": {
+            "CartonPropertyGroup": "选择一个特定的纸箱属性组",
+            "Classification": "选择特定的分类",
+            "PickZone": "从下拉菜单选择特定的选择区域",
+            "Columns": {}
+        },
+		"BoxLast": {
+			"PickZone": "从下拉菜单选择特定的选择区域",
+            "Columns": {},
+            "Barcode": "作为您的搜索条件的一部分输入条码。"
+		}
+}
